@@ -1,0 +1,21 @@
+name: eurec4a
+channels:
+   - defaults
+   - conda-forge
+dependencies:
+   - python
+   - ipython
+   - numpy
+   - matplotlib
+   - pandas
+   - cartopy
+   - xarray
+   - cmocean
+   - cmcrameri
+   - metpy
+   - gsw
+   - netcdf4
+   - seaborn
+   - scipy
+   - jupyter
+   - tqdm
